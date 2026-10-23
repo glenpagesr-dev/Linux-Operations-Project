@@ -10,6 +10,7 @@
 A hands-on Linux operations project built on Ubuntu Server. It recreates the everyday problems a Linux operations team handles: a filesystem filling up, bulk file cleanup, permissions, log analysis, cron automation, runaway processes, a stopped time service, swap, backups, and config edits.
 
 ---
+## 📺 [Watch Me Build the Project Here](#)
 
 ## 📋 Project Overview
 
