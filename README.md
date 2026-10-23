@@ -1,4 +1,4 @@
-# 🐧 Ubuntu Linux Operations Project
+ # 🐧 Ubuntu Linux Operations Project
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-24.04_LTS-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
@@ -136,7 +136,7 @@ ls -ld /srv/opsshare                # drwxrws---
 
 sudo -u alice touch /srv/opsshare/alice.txt   # works
 sudo -u bob touch /srv/opsshare/bob.txt       # Permission denied
-ls -l /srv/opsshare                           # files inherit the opsteam group
+sudo ls -l /srv/opsshare                      # files inherit the opsteam group
 ```
 
 | Number | Letters | Meaning |
