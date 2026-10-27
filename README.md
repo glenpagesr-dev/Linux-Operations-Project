@@ -475,7 +475,7 @@ rm -rf ~/linux-project
 
 ### 1. Disk Full — Before and After
 
-![Disk Full Before and After](screenshots/disk-full-before-after.png)
+![Disk Full Before and After](https://github.com/glenpagesr-dev/Linux-Operations-Project/blob/main/disk-full-before-after.png)
 
 `df -h` showing the test filesystem above 80%, then recovered after truncating the active log.
 
