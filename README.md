@@ -487,7 +487,7 @@ rm -rf ~/linux-project
 
 ### 3. Cron Health Check Output
 
-![Cron Health Check](screenshots/healthcheck-log.png)
+![Cron Health Check](https://github.com/glenpagesr-dev/Linux-Operations-Project/blob/main/healthcheck-log.png)
 
 `healthcheck.log` entries written every 5 minutes by cron.
 
