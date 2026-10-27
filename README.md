@@ -481,7 +481,7 @@ rm -rf ~/linux-project
 
 ### 2. Deleted-but-Open File
 
-![Deleted but Open File](screenshots/lsof-deleted-file.png)
+![Deleted but Open File](https://github.com/glenpagesr-dev/Linux-Operations-Project/blob/main/lsof-deleted-file.png)
 
 `lsof +L1` showing a deleted file still holding space, and `df -h` after stopping the process.
 
