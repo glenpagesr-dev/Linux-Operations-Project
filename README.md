@@ -493,7 +493,7 @@ rm -rf ~/linux-project
 
 ### 4. Permission Denied Test
 
-![Permission Test](screenshots/sgid-permission-test.png)
+![Permission Test](https://github.com/glenpagesr-dev/Linux-Operations-Project/blob/main/sgid%20permission-test.png)
 
 `alice` creates a file in the shared folder; `bob` is denied. Files inherit the `opsteam` group through SGID.
 
